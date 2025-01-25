@@ -20,7 +20,7 @@ export default function GlobalNav() {
           className="group flex w-full items-center gap-x-2.5"
           onClick={close}
         >
-          <div className="h-7 w-7 rounded-full text-xl bg-blue-600 flex items-center justify-center">
+          <div className="h-7 w-7 rounded-full text-xl text-white bg-blue-600 flex items-center justify-center">
             B
           </div>
 
